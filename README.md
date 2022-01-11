@@ -45,6 +45,7 @@
 <img alt="REDUX" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img alt="React Router Dom" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+ <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
 </p>
 
 #### Cloud
@@ -61,7 +62,13 @@
      <img alt="invision" src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white">
      <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </p>
-  
+
+#### Authentication
+
+<p>
+     <img alt="Auth0" src="https://img.shields.io/badge/Auth0-20232A?style=for-the-badge&logo=Auth0&logoColor=Red" />
+</p>
+
 - 🌱  I’m currently looking for a Full Stack or Front-end web development job!
 - 💬  Ask me about Snowboarding!
 - ⚡  Fun fact: I am also a Multi-Instrumentalist and have been playing music professionally for 10 years all around the world!
